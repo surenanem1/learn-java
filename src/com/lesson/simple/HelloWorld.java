@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.lession.simple;
+package com.lesson.simple;
 
 /**
  * 
